@@ -2,14 +2,14 @@ repo_name: SmolSoftBoi/vapor-leaf-bootstrap-provider
 report_id: 7ff18766cdc2ea239102999985d9a169
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-17T01:45:29+00:00'
+timestamp: '2024-02-29T19:28:53+00:00'
 requested_by: SmolSoftBoi
 provider: github
 branch: master
 detected_tools_count: 2
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
